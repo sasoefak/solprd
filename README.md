@@ -1,6 +1,6 @@
 # SolPRD
 
-**God-tier PRD development & audit tooling for Solana developers.** Install it as an agent skill in your project, or run the CLI. Two audit engines:
+**God-tier PRD development & audit tooling for Solana developers.** Install it as an agent skill in your project, or run the CLI. Three audit engines:
 
 1. **Mode A — Self Audit (rule-based, offline):** scores your PRD 0–100 against a Solana-native rubric. No API key. CI-friendly.
 2. **Mode B — AI-Assisted Audit (bring-your-own-key):** deep qualitative review and rewrite using a high-end model you choose.
