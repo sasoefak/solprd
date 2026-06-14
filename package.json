@@ -1,0 +1,34 @@
+{
+  "name": "solprd",
+  "version": "1.1.0",
+  "description": "Solana PRD development and audit skill with optional solana.new enrichment workflows and bring-your-own-key AI review.",
+  "type": "commonjs",
+  "bin": {
+    "solprd": "bin/solprd.js"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node bin/solprd.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "solana",
+    "prd",
+    "audit",
+    "web3",
+    "cli",
+    "ai",
+    "product-requirements",
+    "skill"
+  ],
+  "files": [
+    "bin",
+    "src",
+    "SKILL.md",
+    "README.md"
+  ],
+  "author": "",
+  "license": "MIT"
+}
